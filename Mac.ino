@@ -14,12 +14,12 @@
 #define TFT_MOSI 5
 
 // WiFi info
-char* SSID = "CatchMeIfYouCan";
-const char* PASSWORD = "I'm_not_gonna_tell_you_my_password";
+char* SSID = "SSID";
+const char* PASSWORD = "Password?";
 
 // Spotify info from the developer dashboard
-const char* CLIENT_ID = "faceb857f78e4b80aff2ae3b83089518";
-const char* CLIENT_SECRET = "56dd7dd98b3742d695091d12254e1f6e";
+const char* CLIENT_ID = "6726e146a5094f6dbad60f9f253ba37b";
+const char* CLIENT_SECRET = "c2dee4cba6cf4e86961ecc7938410ddd";
 
 String lastArtist;
 String lastTrackname;
