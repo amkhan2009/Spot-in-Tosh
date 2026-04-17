@@ -18,8 +18,8 @@ char* SSID = "SSID";
 const char* PASSWORD = "Password?";
 
 // Spotify info from the developer dashboard
-const char* CLIENT_ID = "6726e146a5094f6dbad60f9f253ba37b";
-const char* CLIENT_SECRET = "c2dee4cba6cf4e86961ecc7938410ddd";
+const char* CLIENT_ID = "also secret";
+const char* CLIENT_SECRET = "secret";
 
 String lastArtist;
 String lastTrackname;
