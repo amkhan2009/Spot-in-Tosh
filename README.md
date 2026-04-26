@@ -4,8 +4,7 @@
 
 
 
-Making a cute lil mac in tosh inspired spotify display done by following the stasis guided project. It specializes with a custom made case with slotted air cooling and a rise for the display.
-
+Making a cute lil mac in tosh inspired spotify display done by following the stasis guided project. It specializes with a custom made case with slotted air cooling and a rise for the display. It uses an ESP 32 devboard to help link everything together. Such as with the TFT screen and Key switches to it making the ESP the center of operations for the Spot N Tosh. It uses the GPIO ports like the same power extension to help link it together.
 
 
 <img width="910" height="854" alt="Screenshot 2026-04-20 183306" src="https://github.com/user-attachments/assets/3ecd5546-cfd7-4b48-beaf-27c0f0e52909" />
