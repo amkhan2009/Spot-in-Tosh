@@ -42,4 +42,13 @@ TFT display drivers
 Spotify Web API
 
 
+**BOM**
+| Component | Description | QTY | Link | Price |
+| -------- | -------- | -------- | -------- | -------- |
+| LOLIN C3 Mini V2.1.0 | ESP32-C3FH4 WiFi + BLE, 4MB Flash — main controller | 1 | 4.5 | https://www.aliexpress.us/item/3256804553736450.html |
+| CCA4 1.8" TFT LCD | ST7735 SPI, 128×160 resolution — Spotify display | 1 | 3 | [https://www.aliexpress.us/item/3256804553736450.html](https://www.aliexpress.us/item/3256809508197532.html) |
+| Holy Panda Tactile Switch | 3-pin, 55g–67g POM mechanical switch — playback control | 1 | 3 | [https://www.aliexpress.us/item/3256804553736450.html](https://www.aliexpress.us/item/3256804202248944.html) |
+| Jumper Wires | 	Connect board to screen and keys | 1 | 2.5 |[ https://www.aliexpress.us/item/3256804553736450.html](https://www.aliexpress.us/item/3256803032782196.html?spm=a2g0n.shopcart.0.0.341238daOvLsRQ&mp=1&pdp_npi=6%40dis%21USD%21USD+4.61%21USD+4.43%21%21USD+4.43%21%21%21%402101c44f17771887062764288e21c9%2112000024783046589%21ct%21US%217551140146%21%211%210%21&_gl=1*1ueby3g*_gcl_aw*R0NMLjE3NzYxMzA3MDkuQ2owS0NRandxUExPQmhDaUFSSXNBS1JNUFpyQTJrR1NIWjhjRzFXOEtCSVdWcWxLX25wLUM3ZWFOdThBUFVmdVlFeXFJVlA1dDltZ2hqc2FBbTRFRUFMd193Y0I.*_gcl_dc*R0NMLjE3NzYxMzA3MDkuQ2owS0NRandxUExPQmhDaUFSSXNBS1JNUFpyQTJrR1NIWjhjRzFXOEtCSVdWcWxLX25wLUM3ZWFOdThBUFVmdVlFeXFJVlA1dDltZ2hqc2FBbTRFRUFMd193Y0I.*_gcl_au*MTg5OTc0NjY2OS4xNzc2MTMwNzQx*_ga*MTU5MDY5MjIwNS4xNzc3MTg4MjE4*_ga_VED1YSGNC7*czE3NzcxODgyMTgkbzEkZzEkdDE3NzcxODg3MDgkajYwJGwwJGgw&gatewayAdapt=glo2usa) |
+
+
 Made with nostalgia
