@@ -4,23 +4,24 @@ The Spot N Tosh is a Macintosh-inspired Spotify display built following the Stas
 The project features a fully custom-made case with slotted air cooling vents and a built-in display riser, giving the screen the perfect angle while keeping the whole build thermally happy.
 
 **Hardware**
-ESP32 DevBoard 
+
+
+--ESP32 DevBoard 
 the head of operations links everything together
 
-TFT Screen 
+--TFT Screen 
 Main Spotify display output
 
-Key Switches
+--Key Switches
 Physical playback controls
 
-GPIO Ports
+--GPIO Ports
 Power extension and component linkage
 
 **Case Design**
 Custom enclosure styled after the classic Macintosh form factor
 Slotted air cooling vents for passive thermal management
 Built in display riser to angle the  screen at the perfect viewing height
-
 
 **How It Works**
 The ESP32 DevBoard is the brain of the Spot N Tosh, acting as the central hub that links the TFT screen, key switches, and power supply together. All components are wired through the GPIO ports using a power extension approach  similar in spirit to how the original Mac routed its internals making the ESP32 the single point of control for display output and key input.
