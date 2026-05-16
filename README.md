@@ -18,19 +18,19 @@ Physical playback controls
 --GPIO Ports
 Power extension and component linkage
 
-**Case Design**
+****Case Design****
 Custom enclosure styled after the classic Macintosh form factor
 Slotted air cooling vents for passive thermal management
 Built in display riser to angle the  screen at the perfect viewing height
 
-**How It Works**
+****How It Works****
 The ESP32 DevBoard is the brain of the Spot N Tosh, acting as the central hub that links the TFT screen, key switches, and power supply together. All components are wired through the GPIO ports using a power extension approach  similar in spirit to how the original Mac routed its internals making the ESP32 the single point of control for display output and key input.
 
-**Why did I make this?**
+****Why did I make this?****
 I have been recently really interested in old technology and when I had seen this boxy block with a screen the first thing I thought of was the Apple Mac N Tosh as I have a hack club sticker of the mac n tosh and I felt it could be nice to make and replicate.
 
 
-**Built With**
+****Built With****
 Stasis Guided Project
 ESP32 Arduino
 TFT display drivers
