@@ -1,14 +1,3 @@
-
-
-# Mac N Chez
-
-<img width="1494" height="875" alt="Screenshot 2026-04-17 040046" src="https://github.com/user-attachments/assets/629203f3-4ed7-4aaf-823c-1b5a5450f0b8" />
-<img width="1710" height="1043" alt="Screenshot 2026-05-07 203735" src="https://github.com/user-attachments/assets/f7b3442a-216e-4aff-93c8-8d62b1d24338" />
-<img width="1554" height="1059" alt="Screenshot 2026-05-07 203654" src="https://github.com/user-attachments/assets/8516abdc-08b8-491d-8bec-7a912e9a1fe6" />
-<img width="1859" height="972" alt="Screenshot 2026-05-07 203556" src="https://github.com/user-attachments/assets/d1a8fad8-c512-494b-b75c-fef5285a7082" />
-
-<img width="910" height="854" alt="Screenshot 2026-04-20 183306" src="https://github.com/user-attachments/assets/3ecd5546-cfd7-4b48-beaf-27c0f0e52909" />
-
 **About**
 
 The Spot N Tosh is a Macintosh-inspired Spotify display built following the Stasis guided project. It combines retro Mac aesthetics with modern microcontroller tech — a tiny desktop companion that shows what's playing on Spotify in classic compact Mac style.
@@ -57,3 +46,13 @@ Spotify Web API
 
 
 Made with nostalgia
+
+
+# Mac N Chez
+
+<img width="1494" height="875" alt="Screenshot 2026-04-17 040046" src="https://github.com/user-attachments/assets/629203f3-4ed7-4aaf-823c-1b5a5450f0b8" />
+<img width="1710" height="1043" alt="Screenshot 2026-05-07 203735" src="https://github.com/user-attachments/assets/f7b3442a-216e-4aff-93c8-8d62b1d24338" />
+<img width="1554" height="1059" alt="Screenshot 2026-05-07 203654" src="https://github.com/user-attachments/assets/8516abdc-08b8-491d-8bec-7a912e9a1fe6" />
+<img width="1859" height="972" alt="Screenshot 2026-05-07 203556" src="https://github.com/user-attachments/assets/d1a8fad8-c512-494b-b75c-fef5285a7082" />
+
+<img width="910" height="854" alt="Screenshot 2026-04-20 183306" src="https://github.com/user-attachments/assets/3ecd5546-cfd7-4b48-beaf-27c0f0e52909" />
